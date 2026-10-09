@@ -1,0 +1,36 @@
+{
+  "gameVersion": "2.1.0",
+  "profile": {
+    "playerName": "SpeedDemon",
+    "level": 47,
+    "currency": 125000,
+    "garage_slots": 8
+  },
+  "vehicleSlots": [
+    {
+      "id": 1,
+      "name": "Phantom GT",
+      "class": "A",
+      "tunePreset": "street_aggressive",
+      "bestLap": "1:12.445",
+      "track": "Silverstone"
+    },
+    {
+      "id": 2,
+      "name": "Inferno RS",
+      "class": "B",
+      "tunePreset": "mountain_drift",
+      "bestLap": "2:45.120",
+      "track": "Eifelwald"
+    }
+  ],
+  "tunePresets": {
+    "street_aggressive": {
+      "turbo": 2,
+      "suspension_height": 35,
+      "spring_rate": "16/18",
+      "camber": "-2.0/-1.5",
+      "downforce": "medium"
+    }
+  }
+}
